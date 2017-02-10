@@ -1,6 +1,4 @@
-# Course-Description
-
-# Mathematics
+# Course-Description-MachineLearning
 
 
 ### 1. Course(s) corresponding to Algebra and geometry 
@@ -18,7 +16,8 @@ such as Cartesian coordinate system and quadric surface (ellipsoid, sphere and p
 ### 2. Course(s) in calculus in one-variable
 
 ```markdown
-**Mathematics (2012-2013 Semester1)**
+**Engineering Mathematical Analysis 1 (2012-2013 Semester2)**
+**Engineering Mathematical Analysis 2 (2013-2014 Semester1)**
 This course focuses on advanced calculus tools and the derivation procedure of such tools.
 It covers real number theory, concept of limits (the limit of a sequence and a function), 
 definitions and properties of continuous functions, differential calculus (differentiable 
