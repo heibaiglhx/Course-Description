@@ -67,18 +67,22 @@ programming. It covers design and implementation of class, creating and initiali
 objects (providing initial values member variables), inheritance of public and protected 
 classes and file processing.
 
-**Assemble Language (2014-2015 Semester2)**
-This course focuses on 80x86 assemble language. It covers structures and components of 
-Intel 8086 CPU (register, flag etc.), mnemonic that has been used to represent each 
-low-level machine instruction or operation and implementation of loop and recursion with
-assemble language.
+**Computer Organization (2015-2016 Semester2)**
+This course covers the SW/HW organization of modern computer systems. Students will learn 
+how to design the main components of a computer system and how to control these components 
+through SW. To consolidate the material presented in class, students will work on programming 
+and datapath design assignments. The final project will work on the optimization of a resource 
+constrained computer system.
 
-**Pattern Recognition (2015-2016 Semester2)**
-This course deals with the fundamentals of characterizing and recognizing patterns and
-features of interest in numerical data. We discuss the basic tools and theories for 
-signal understanding problems with applications to face recognition and more. It also 
-covers decision theory, statistical classification, maximum likelihood and Bayesian 
-estimation, nonparametric methods, unsupervised learning and clustering.
+**Introduction to Pattern Recognition (2015-2016 Semester2)**
+This course deals with the classification and clustering of data. It covers decision theory, 
+statistical classification, maximum likelihood and Bayesian estimation, nonparametric methods, 
+unsupervised learning and clustering etc.
+
+**Introduction to Embedded Systems Design and Implementation (2015-2016 Semester2)**
+This course introduces hardware and software platforms of embedded system fors designing and
+development through a series of labs on modules concerning image processing and so on. This
+course provides practical experiences on embedded system design and implementation for students.
 ```
 
 ### 6. Course(s) corresponding to Algorithms and Data Structures 
